@@ -1,0 +1,147 @@
+
+
+body {
+	font-family: 'Lato';
+	margin: 100px;
+}
+
+
+
+p {
+  font-size: 16px;
+}
+
+img {
+  width: 50px;
+  height: auto;
+  padding-right: 10px;
+  display: inline-block;
+  padding-bottom: 10px;
+}
+
+.num {
+  float:left;
+  padding-right: 10px;
+  width:20px;
+}
+
+.bottom {
+  padding-bottom: 25px;
+}
+
+.date {
+  font-weight: 900;
+  color: #cc0000;
+}
+
+.year {
+  font-weight: 900;
+  color: #cc0000;
+  display: block;
+  padding-bottom: 10px;
+
+}
+
+.source {
+  font-size: 12px;
+  font-style: italic;
+  font-weight: 900;
+  padding-left: 10px;
+}
+
+.center {
+  text-align: left;
+  vertical-align: center;
+  width: 100%;
+}
+
+hr {
+padding-top: 50px;
+padding-bottom: 50px;
+border: none;
+}
+
+
+.explain {
+font-size: 14px;
+line-height: 18px;
+text-align: left;
+}
+
+
+.large {
+  font-size: 16px;
+  line-height: 22px;
+}
+
+h4 {
+  font-weight: 700;
+  font-size: 24px;
+  padding-bottom: 20px;
+}
+
+.slidingDiv {
+margin-top:10px;
+margin-bottom: 100px;
+}
+
+.show_hide {
+display:none;
+text-decoration: none;
+border: 1px solid black;
+padding: 20px;
+color: black;
+display: block;
+margin-top: 20px;
+}
+
+.show_hide:hover {
+color: white;
+background-color: black;
+}
+
+.hide {
+  font-size: 12px;
+  background-color: black;
+  color: white;
+  padding: 10px;
+}
+
+.hide:hover {
+  font-size: 12px;
+  background-color: white;
+  color: black;
+  padding: 10px;
+}
+
+.largenum
+  {
+    font-size: 100px;
+    color: #cc0000;
+    font-weight: 900;
+  }
+
+  .mednum
+  {
+    font-size: 50px;
+    color: #cc0000;
+    font-weight: 900;
+    display: block;
+    padding-bottom: 10px;
+  }
+.graphic{
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 24px;
+}
+
+.section{
+  font-size: 18px;
+  font-weight: 900;
+  line-height: 24px;
+  color: #cc0000;
+}
+
+.pad {
+  padding-bottom: 40px;
+}
